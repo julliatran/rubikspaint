@@ -1,5 +1,5 @@
 # Name : Jullia Tran 
-# AndrewId : utran
+# Course: 15-112 Carnegie Mellon University
 # Date: 11/27/18 
 # Program : RubiksPaint
 
